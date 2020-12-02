@@ -1,0 +1,128 @@
+<!-- \begin{table}[ht] -->
+<!-- \centering -->
+<!-- \begin{tabular}{rlrrrrrrr} -->
+<!--   \hline -->
+<!--  & model & k & mse\_avg & cv\_mse\_avg & cv\_mse\_var & mae\_avg & cv\_mae\_avg & cv\_mae\_var \\  -->
+<!--   \hline -->
+<!-- APM &         & 0.953271 & 1.091698 & 0.005100 & 0.679659 & 0.733621 & 0.000549 \\  -->
+<!-- HFA &         & 0.999779 & 0.999341 & 0.000000 & 0.690265 & 0.690987 & 0.000099 \\  -->
+<!-- RAPM & 10     & 0.956302 & 1.037051 & 0.000187 & 0.679200 & 0.710670 & 0.000120 \\  -->
+<!-- RAPM & 100    & 0.966198 & 1.008433 & 0.000056 & 0.680071 & 0.695826 & 0.000112 \\  -->
+<!-- RAPM & 500    & 0.978251 & 0.998106 & 0.000025 & 0.682951 & 0.690578 & 0.000113 \\  -->
+<!-- RAPM & 1,000  & 0.983147 & 0.996713 & 0.000020 & 0.684455 & 0.689939 & 0.000112 \\  -->
+<!-- RAPM & 10,000 & 0.991892 & 0.996391 & 0.000014 & 0.687475 & 0.689876 & 0.000109 \\  -->
+<!-- HBPM &        & 0.989197 & 0.995698 & 0.000010 & 0.686469 & 0.689596 & 0.000110 \\  -->
+<!--    \hline -->
+<!-- \end{tabular} -->
+<!-- \end{table} -->
+
+
+
+<!-- CFB Cross-validated table -->
+\begin{table}[H]
+\centering\footnotesize
+\caption{CFB plus-minus models leave one week out cross-validation summaries (2018-2019)}
+\label{Tab:CFBcvSummary}
+\begin{tabular}{lrrrrr}
+  \hline
+ model & $\lambda$ & Avg CV MSE & Var CV MSE  & Avg CV MAE & Var CV MAE \\ 
+  \hline
+ APM  &        & 1.101883 & 0.000665 & 0.750000 & 0.000078 \\
+ HFA  &        & 0.999284 & 0.000002 & 0.710304 & 0.000032 \\
+ RAPM & 10     & 1.039558 & 0.000069 & 0.725432 & 0.000038 \\
+ RAPM & 100    & 1.005026 & 0.000026 & 0.710244 & 0.000042 \\
+ RAPM & 500    & 0.992576 & 0.000014 & 0.705287 & 0.000039 \\
+ RAPM & 1,000  & 0.990703 & 0.000012 & 0.704692 & 0.000037 \\
+ RAPM & 10,000 & 0.991422 & 0.000011 & 0.705837 & 0.000037 \\
+ HBPM &        & 0.989877 & 0.000009 & 0.705712 & 0.000036 \\
+ HBPM\mbox{*}& & 0.990570 & 0.000008 & 0.705406 & 0.000037 \\
+  \hline
+ \multicolumn{6}{l}{\mbox{*}Using standard prior mean of -0.0773 for all players.}
+\end{tabular}
+\end{table}
+
+
+
+<!-- NFL Cross-validated table for leave one week out -->
+\begin{table}[H]
+\centering\footnotesize
+\caption{NFL plus-minus models leave one week out cross-validation summaries (2007-2019)}
+\label{Tab:NFLcvSummary}
+\begin{tabular}{lrrrrrrr}
+  \hline
+model & $\lambda$ & Avg CV MSE & Var CV MSE  & Avg CV MAE & Var CV MAE \\ 
+  \hline
+APM &         & 1.135054 & 0.107109 & 0.738647 & 0.001761 \\
+HFA &         & 0.999348 & 0.000000 & 0.691051 & 0.000099 \\
+RAPM & 10     & 1.036098 & 0.000231 & 0.709875 & 0.000118 \\
+RAPM & 100    & 1.006197 & 0.000059 & 0.694117 & 0.000100 \\
+RAPM & 500    & 0.995490 & 0.000025 & 0.688681 & 0.000100 \\
+RAPM & 1,000  & 0.993982 & 0.000018 & 0.688183 & 0.000101 \\
+RAPM & 10,000 & 0.995217 & 0.000004 & 0.690000 & 0.000102 \\
+HBPM &        & 0.993576 & 0.000013 & 0.688506 & 0.000102 \\
+   \hline
+\end{tabular}
+\end{table}
+
+
+<!-- NFL Cross-validated table for leave SEASON week out -->
+\begin{table}[H]
+\centering\footnotesize
+\caption{NFL plus-minus models leave one season out cross-validation summaries (2007-2019)}
+\label{Tab:NFLcvSeasonSummary}
+\begin{tabular}{lrrrrrrr}
+  \hline
+model & $\lambda$ & Avg CV MSE & Var CV MSE  & Avg CV MAE & Var CV MAE \\ 
+  \hline
+APM &         & 1.332235 & 0.061941 & 0.813636 & 0.006823 \\  
+HFA &         & 0.999825 & <0.000001& 0.672748 & 0.000020 \\ \ 
+RAPM & 10     & 1.072143 & 0.000342 & 0.712193 & 0.000116 \\  
+RAPM & 100    & 1.013039 & 0.000008 & 0.679869 & 0.000018 \\  
+RAPM & 500    & 0.997979 & 0.000001 & 0.671533 & 0.000017 \\  
+RAPM & 1,000  & 0.996024 & 0.000001 & 0.670629 & 0.000017 \\  
+RAPM & 10,000 & 0.996347 & 0.000000 & 0.671828 & 0.000019 \\  
+HBPM &        & 0.995543 & 0.000000 & 0.670843 & 0.000018 \\  
+   \hline
+\end{tabular}
+\end{table}
+
+<!-- NFL posterior parameter summary -->
+\begin{table}[H]
+\centering\footnotesize
+\caption{Posterior summary for NFL Bayesian Hierarchical Plus-Minus Model. Mean and variance of posterior mean estimate (PM) and mean and variance of posterior variance estimate (PV) (2007-2019 Seasons). }
+\label{Tab:nflHbpmPostSummary}
+\begin{tabular}{lllll}
+  \hline
+ Parameter & Mean PM & Var PM & Mean PV & Var PV \\ 
+  \hline
+$\beta_{home}$        & 0.0131 & 3.84E-05 & 3.06E-05 & 1.83E-12 \\ 
+$\beta_{pass}$        & 0.088 & 0.000283 & 0.000121 & 2.46E-11 \\ 
+$\sigma^2_{model}$    & 0.991 & 8.2E-07 & 5.66E-05 & 1.42E-11 \\ 
+$\sigma^2_{playType}$ & 0.284 & 0.00267 & 0.333 & 0.00537 \\ 
+$\sigma^2_{player}$   & 0.000251 & 5.62E-10 & 3.81E-09 & 9.94E-19 \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+
+
+
+\begin{table}[H]
+\centering\footnotesize
+\caption{Posterior summary for CFB Bayesian Hierarchical Plus-Minus Model. Mean and variance of posterior (2018-2019 Seasons). }
+\label{Tab:cfbHbpmPostSummary}
+\begin{tabular}{lllll}
+  \hline
+ Parameter & 2018 Mean & 2019 Mean & 2018 Var & 2019 Var \\ 
+  \hline
+$\beta_{home}$        & 0.02 & 0.024 & 1.1E-05 & 1.13E-05 \\ 
+$\beta_{pass}$        & 0.00582 & 0.0174 & 3.17E-05 & 3.28E-05 \\ 
+$\sigma^2_{model}$    & 0.983 & 0.981 & 1.66E-05 & 1.52E-05 \\ 
+$\sigma^2_{playType}$ & 0.122 & 0.0722 & 0.38 & 0.0851 \\ 
+$\sigma^2_{player}$   & 0.000294 & 0.000313 & 1.14E-09 & 1.07E-09 \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+
+

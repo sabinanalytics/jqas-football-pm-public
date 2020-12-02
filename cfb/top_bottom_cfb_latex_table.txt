@@ -1,0 +1,175 @@
+\begingroup\fontsize{1}{3}\selectfont
+
+\begin{longtable}[t]{llrrlrr}
+\caption{\label{tab:}CFB top and bottom players at each position}\\
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{3}{c}{Top Players} & \multicolumn{3}{c}{Bottom Players} \\
+\cmidrule(l{3pt}r{3pt}){2-4} \cmidrule(l{3pt}r{3pt}){5-7}
+Pos & Player & Mean & Var & Player & Mean & Var\\
+\midrule
+\endfirsthead
+\caption[]{CFB top and bottom players at each position \textit{(continued)}}\\
+\toprule
+Pos & Player & Mean & Var & Player & Mean & Var\\
+\midrule
+\endhead
+
+\endfoot
+\bottomrule
+\endlastfoot
+\addlinespace[0.3em]
+\multicolumn{7}{l}{\textbf{2018}}\\
+\hspace{1em}\cellcolor{gray!6}{QB} & \cellcolor{gray!6}{Kyler Murray} & \cellcolor{gray!6}{0.0331} & \cellcolor{gray!6}{0.0058} & \cellcolor{gray!6}{Cordale Grundy} & \cellcolor{gray!6}{-0.0651} & \cellcolor{gray!6}{0.0008}\\
+\hspace{1em}QB & Tua Tagovailoa & -0.0039 & 0.0016 & Deondre Francois & -0.0659 & 0.0011\\
+\hspace{1em}\cellcolor{gray!6}{QB} & \cellcolor{gray!6}{Trevor Lawrence} & \cellcolor{gray!6}{-0.0147} & \cellcolor{gray!6}{0.0009} & \cellcolor{gray!6}{Artur Sitkowski} & \cellcolor{gray!6}{-0.0662} & \cellcolor{gray!6}{0.0011}\\
+\hspace{1em}QB & D'Eriq King & -0.0179 & 0.0009 & Brandon McIlwain & -0.0691 & 0.0012\\
+\hspace{1em}\cellcolor{gray!6}{QB} & \cellcolor{gray!6}{Will Grier} & \cellcolor{gray!6}{-0.0215} & \cellcolor{gray!6}{0.0009} & \cellcolor{gray!6}{Tyler Wiegers} & \cellcolor{gray!6}{-0.0789} & \cellcolor{gray!6}{0.0015}\\
+\hspace{1em}RB & Najee Harris & -0.0544 & 0.0005 & Anthony D. Taylor & -0.0829 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{RB} & \cellcolor{gray!6}{Chandler Cox} & \cellcolor{gray!6}{-0.0562} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Raheem Blackshear} & \cellcolor{gray!6}{-0.0829} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}RB & D'Andre Swift & -0.0567 & 0.0004 & Jason Huntley & -0.0834 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{RB} & \cellcolor{gray!6}{Dexter Williams} & \cellcolor{gray!6}{-0.0571} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Jalen Rhodes} & \cellcolor{gray!6}{-0.0837} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}RB & Zack Moss & -0.0573 & 0.0004 & Khalil Herbert & -0.0854 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{SWR} & \cellcolor{gray!6}{Jerry Jeudy} & \cellcolor{gray!6}{-0.0335} & \cellcolor{gray!6}{0.0010} & \cellcolor{gray!6}{Marquez McNair} & \cellcolor{gray!6}{-0.0979} & \cellcolor{gray!6}{0.0011}\\
+\hspace{1em}SWR & Lee Morris & -0.0403 & 0.0017 & OJ Clark & -0.0980 & 0.0009\\
+\hspace{1em}\cellcolor{gray!6}{SWR} & \cellcolor{gray!6}{Grant Calcaterra} & \cellcolor{gray!6}{-0.0450} & \cellcolor{gray!6}{0.0010} & \cellcolor{gray!6}{Austin Trammell} & \cellcolor{gray!6}{-0.1024} & \cellcolor{gray!6}{0.0010}\\
+\hspace{1em}SWR & Mecole Hardman & -0.0487 & 0.0008 & Eddie Lewis & -0.1033 & 0.0015\\
+\hspace{1em}\cellcolor{gray!6}{SWR} & \cellcolor{gray!6}{K.J. Hill} & \cellcolor{gray!6}{-0.0493} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Rafael Araujo-Lopes} & \cellcolor{gray!6}{-0.1219} & \cellcolor{gray!6}{0.0019}\\
+\hspace{1em}WR & Anthony Schwartz & -0.0589 & 0.0003 & Shameen Jones & -0.0800 & 0.0002\\
+\hspace{1em}\cellcolor{gray!6}{WR} & \cellcolor{gray!6}{Justyn Ross} & \cellcolor{gray!6}{-0.0600} & \cellcolor{gray!6}{0.0002} & \cellcolor{gray!6}{Blaze Moorhead} & \cellcolor{gray!6}{-0.0808} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}WR & Corey Sutton & -0.0601 & 0.0003 & Dylan Drummond & -0.0812 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{WR} & \cellcolor{gray!6}{Trenton Irwin} & \cellcolor{gray!6}{-0.0602} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Kedarian Jones} & \cellcolor{gray!6}{-0.0823} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}WR & N'Keal Harry & -0.0605 & 0.0002 & Keynan Foster & -0.0852 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{TE} & \cellcolor{gray!6}{Isaac Nauta} & \cellcolor{gray!6}{-0.0436} & \cellcolor{gray!6}{0.0007} & \cellcolor{gray!6}{Carl Tucker} & \cellcolor{gray!6}{-0.0838} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}TE & Garrett Williams & -0.0508 & 0.0006 & Dominick Wood-Anderson & -0.0839 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{TE} & \cellcolor{gray!6}{Brycen Hopkins} & \cellcolor{gray!6}{-0.0573} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Newman Williams} & \cellcolor{gray!6}{-0.0847} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}TE & Cole Kmet & -0.0588 & 0.0003 & Josh Oliver & -0.0870 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{TE} & \cellcolor{gray!6}{Dalton Keene} & \cellcolor{gray!6}{-0.0595} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Tre' McKitty} & \cellcolor{gray!6}{-0.0873} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}OT & Bobby Evans & -0.0451 & 0.0018 & Cole Chewins & -0.0835 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{OT} & \cellcolor{gray!6}{Isaiah Wilson} & \cellcolor{gray!6}{-0.0491} & \cellcolor{gray!6}{0.0006} & \cellcolor{gray!6}{Nick Follmer} & \cellcolor{gray!6}{-0.0844} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}OT & Cody Ford & -0.0510 & 0.0011 & Deano Motes & -0.0846 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{OT} & \cellcolor{gray!6}{Mitch Hyatt} & \cellcolor{gray!6}{-0.0520} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{D'Ante Smith} & \cellcolor{gray!6}{-0.0848} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}OT & Jedrick Wills Jr. & -0.0535 & 0.0006 & Aaron Brewer & -0.1006 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{OG} & \cellcolor{gray!6}{Gage Cervenka} & \cellcolor{gray!6}{-0.0377} & \cellcolor{gray!6}{0.0010} & \cellcolor{gray!6}{Chris Gaynor} & \cellcolor{gray!6}{-0.0866} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}OG & Dru Samia & -0.0437 & 0.0019 & Rowan Godwin & -0.0867 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{OG} & \cellcolor{gray!6}{Ben Powers} & \cellcolor{gray!6}{-0.0510} & \cellcolor{gray!6}{0.0015} & \cellcolor{gray!6}{Sebastian Anderson} & \cellcolor{gray!6}{-0.0867} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}OG & Trey Hill & -0.0512 & 0.0005 & Jamezz Kimbrough & -0.0890 & 0.0007\\
+\hspace{1em}\cellcolor{gray!6}{OG} & \cellcolor{gray!6}{Alex Leatherwood} & \cellcolor{gray!6}{-0.0515} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Bijan Hosseini} & \cellcolor{gray!6}{-0.0994} & \cellcolor{gray!6}{0.0013}\\
+\hspace{1em}C & Ross Pierschbacher & 0.0027 & 0.0030 & Cole Conrad & -0.1095 & 0.0017\\
+\hspace{1em}\cellcolor{gray!6}{C} & \cellcolor{gray!6}{Steven Hayes} & \cellcolor{gray!6}{-0.0107} & \cellcolor{gray!6}{0.0027} & \cellcolor{gray!6}{Shea Baker} & \cellcolor{gray!6}{-0.1126} & \cellcolor{gray!6}{0.0017}\\
+\hspace{1em}C & Lamont Gaillard & -0.0194 & 0.0018 & Addison Ooms & -0.1213 & 0.0016\\
+\hspace{1em}\cellcolor{gray!6}{C} & \cellcolor{gray!6}{Creed Humphrey} & \cellcolor{gray!6}{-0.0267} & \cellcolor{gray!6}{0.0025} & \cellcolor{gray!6}{Michael Maietti} & \cellcolor{gray!6}{-0.1308} & \cellcolor{gray!6}{0.0022}\\
+\hspace{1em}C & Jordan Johnson & -0.0271 & 0.0015 & Kevin Davis & -0.1645 & 0.0035\\
+\hspace{1em}\cellcolor{gray!6}{DT} & \cellcolor{gray!6}{Christian Wilkins} & \cellcolor{gray!6}{-0.0536} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Samiuela Akoteu} & \cellcolor{gray!6}{-0.0817} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}DT & Ed Oliver & -0.0566 & 0.0003 & Ira Savage-Lewis & -0.0826 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{DT} & \cellcolor{gray!6}{Jeffery Simmons} & \cellcolor{gray!6}{-0.0566} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Josh Croslen} & \cellcolor{gray!6}{-0.0838} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}DT & Trevon McSwain & -0.0567 & 0.0005 & Kalani Vakameilalo & -0.0839 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{DT} & \cellcolor{gray!6}{Channing Hames} & \cellcolor{gray!6}{-0.0576} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Logan Hall} & \cellcolor{gray!6}{-0.0979} & \cellcolor{gray!6}{0.0015}\\
+\hspace{1em}DE & Chauncey Rivers & -0.0528 & 0.0008 & Graysen Schantz & -0.0827 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{DE} & \cellcolor{gray!6}{Clelin Ferrell} & \cellcolor{gray!6}{-0.0566} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Giovanni Reviere} & \cellcolor{gray!6}{-0.0843} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}DE & Austin Bryant & -0.0566 & 0.0003 & AJ Garson & -0.0845 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{DE} & \cellcolor{gray!6}{Xavier Thomas} & \cellcolor{gray!6}{-0.0569} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Ryan Londree} & \cellcolor{gray!6}{-0.0853} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}DE & Joe Jackson & -0.0581 & 0.0004 & Darrian Beavers & -0.0885 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{ILB} & \cellcolor{gray!6}{Tre Lamar} & \cellcolor{gray!6}{-0.0589} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Silas Kelly} & \cellcolor{gray!6}{-0.0810} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}ILB & Micah Parsons & -0.0592 & 0.0002 & Martin Nwakamma & -0.0813 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{ILB} & \cellcolor{gray!6}{Mack Wilson} & \cellcolor{gray!6}{-0.0597} & \cellcolor{gray!6}{0.0002} & \cellcolor{gray!6}{Michael Makins} & \cellcolor{gray!6}{-0.0817} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}ILB & Erroll Thompson & -0.0602 & 0.0003 & Isaiah Tufaga & -0.0838 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{ILB} & \cellcolor{gray!6}{Willie Gay Jr.} & \cellcolor{gray!6}{-0.0602} & \cellcolor{gray!6}{0.0002} & \cellcolor{gray!6}{Chase Middleton} & \cellcolor{gray!6}{-0.0841} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}OLB & Cece Jefferson & -0.0536 & 0.0003 & Andre Riley & -0.0816 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{OLB} & \cellcolor{gray!6}{Christian Miller} & \cellcolor{gray!6}{-0.0555} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Michael Shaw} & \cellcolor{gray!6}{-0.0817} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}OLB & Asmar Bilal & -0.0575 & 0.0004 & Tyshaun Ingram & -0.0817 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{OLB} & \cellcolor{gray!6}{Marlon Davidson} & \cellcolor{gray!6}{-0.0586} & \cellcolor{gray!6}{0.0002} & \cellcolor{gray!6}{Alex Davis} & \cellcolor{gray!6}{-0.0822} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}OLB & D'Andre Walker & -0.0597 & 0.0004 & Jarell Addo & -0.0823 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{SCB} & \cellcolor{gray!6}{Amani Hooker} & \cellcolor{gray!6}{-0.0401} & \cellcolor{gray!6}{0.0013} & \cellcolor{gray!6}{Delano Ware} & \cellcolor{gray!6}{-0.0867} & \cellcolor{gray!6}{0.0007}\\
+\hspace{1em}SCB & Shyheim Carter & -0.0447 & 0.0008 & Josh Thompson & -0.0878 & 0.0009\\
+\hspace{1em}\cellcolor{gray!6}{SCB} & \cellcolor{gray!6}{Isaiah Simmons} & \cellcolor{gray!6}{-0.0485} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Malcolm Buggs} & \cellcolor{gray!6}{-0.0899} & \cellcolor{gray!6}{0.0007}\\
+\hspace{1em}SCB & Ricky Thomas & -0.0497 & 0.0012 & Sydney Brown & -0.0910 & 0.0007\\
+\hspace{1em}\cellcolor{gray!6}{SCB} & \cellcolor{gray!6}{Madison Cone} & \cellcolor{gray!6}{-0.0511} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Chandler Jones} & \cellcolor{gray!6}{-0.0936} & \cellcolor{gray!6}{0.0008}\\
+\hspace{1em}CB & Josiah Scott & -0.0481 & 0.0012 & Raleigh Texada & -0.0880 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{CB} & \cellcolor{gray!6}{Trayvon Mullen} & \cellcolor{gray!6}{-0.0482} & \cellcolor{gray!6}{0.0006} & \cellcolor{gray!6}{Jalen Fox} & \cellcolor{gray!6}{-0.0890} & \cellcolor{gray!6}{0.0007}\\
+\hspace{1em}CB & DeMarkus Acy & -0.0487 & 0.0008 & Jeremy Lucien & -0.0929 & 0.0011\\
+\hspace{1em}\cellcolor{gray!6}{CB} & \cellcolor{gray!6}{Camryn Bynum} & \cellcolor{gray!6}{-0.0494} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Ryan Carroll} & \cellcolor{gray!6}{-0.0946} & \cellcolor{gray!6}{0.0010}\\
+\hspace{1em}CB & Rock Ya-Sin & -0.0500 & 0.0008 & Jacobi Francis & -0.0995 & 0.0010\\
+\hspace{1em}\cellcolor{gray!6}{S} & \cellcolor{gray!6}{K'Von Wallace} & \cellcolor{gray!6}{-0.0242} & \cellcolor{gray!6}{0.0019} & \cellcolor{gray!6}{Jeffrey Manning Jr.} & \cellcolor{gray!6}{-0.1022} & \cellcolor{gray!6}{0.0011}\\
+\hspace{1em}S & Deionte Thompson & -0.0271 & 0.0018 & Deuce Wallace & -0.1023 & 0.0011\\
+\hspace{1em}\cellcolor{gray!6}{S} & \cellcolor{gray!6}{David Dowell} & \cellcolor{gray!6}{-0.0271} & \cellcolor{gray!6}{0.0016} & \cellcolor{gray!6}{Dee Smith} & \cellcolor{gray!6}{-0.1037} & \cellcolor{gray!6}{0.0012}\\
+\hspace{1em}S & Jevon Holland & -0.0278 & 0.0012 & Jalen Moore & -0.1063 & 0.0015\\
+\hspace{1em}\cellcolor{gray!6}{S} & \cellcolor{gray!6}{Darius West} & \cellcolor{gray!6}{-0.0285} & \cellcolor{gray!6}{0.0015} & \cellcolor{gray!6}{Tyler Coyle} & \cellcolor{gray!6}{-0.2221} & \cellcolor{gray!6}{0.0076}\\
+\addlinespace[0.3em]
+\multicolumn{7}{l}{\textbf{2019}}\\
+\hspace{1em}QB & Justin Fields & -0.0283 & 0.0004 & Josh Adkins & -0.0568 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{QB} & \cellcolor{gray!6}{Trevor Lawrence} & \cellcolor{gray!6}{-0.0287} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Steven Duncan} & \cellcolor{gray!6}{-0.0570} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}QB & Tua Tagovailoa & -0.0306 & 0.0006 & Tyler Vander Waal & -0.0574 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{QB} & \cellcolor{gray!6}{Kedon Slovis} & \cellcolor{gray!6}{-0.0324} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Cephus Johnson} & \cellcolor{gray!6}{-0.0584} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}QB & Jalen Hurts & -0.0337 & 0.0005 & Andrew Brito & -0.0604 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{RB} & \cellcolor{gray!6}{Najee Harris} & \cellcolor{gray!6}{-0.0345} & \cellcolor{gray!6}{0.0014} & \cellcolor{gray!6}{Keyon Brooks} & \cellcolor{gray!6}{-0.0871} & \cellcolor{gray!6}{0.0007}\\
+\hspace{1em}RB & J.K. Dobbins & -0.0528 & 0.0005 & Brandon Lee & -0.0879 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{RB} & \cellcolor{gray!6}{Javonte Williams} & \cellcolor{gray!6}{-0.0528} & \cellcolor{gray!6}{0.0007} & \cellcolor{gray!6}{Pooka Williams Jr.} & \cellcolor{gray!6}{-0.0887} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}RB & Jerrion Ealy & -0.0547 & 0.0004 & Asim Rose & -0.0905 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{RB} & \cellcolor{gray!6}{Travis Etienne} & \cellcolor{gray!6}{-0.0558} & \cellcolor{gray!6}{0.0006} & \cellcolor{gray!6}{Cam Roberson} & \cellcolor{gray!6}{-0.0995} & \cellcolor{gray!6}{0.0011}\\
+\hspace{1em}SWR & K.J. Hill & -0.0447 & 0.0012 & Justice Shelton-Mosley & -0.0828 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{SWR} & \cellcolor{gray!6}{Devin Duvernay} & \cellcolor{gray!6}{-0.0551} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Sean Riley} & \cellcolor{gray!6}{-0.0829} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}SWR & Amari Rodgers & -0.0578 & 0.0003 & Rontavius Groves & -0.0829 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{SWR} & \cellcolor{gray!6}{Dazz Newsome} & \cellcolor{gray!6}{-0.0584} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{OJ Clark} & \cellcolor{gray!6}{-0.0835} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}SWR & Josh Hammond & -0.0593 & 0.0003 & Mohamed Jabbie & -0.0860 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{WR} & \cellcolor{gray!6}{DeVonta Smith} & \cellcolor{gray!6}{-0.0410} & \cellcolor{gray!6}{0.0012} & \cellcolor{gray!6}{Jeremiah Haydel} & \cellcolor{gray!6}{-0.0830} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}WR & Tee Higgins & -0.0527 & 0.0004 & Cameron Odom & -0.0841 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{WR} & \cellcolor{gray!6}{Lawrence Cager} & \cellcolor{gray!6}{-0.0533} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Trey Knox} & \cellcolor{gray!6}{-0.0847} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}WR & Terrace Marshall Jr. & -0.0554 & 0.0002 & Matt Drayton & -0.0852 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{WR} & \cellcolor{gray!6}{Justyn Ross} & \cellcolor{gray!6}{-0.0565} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Julian Hicks} & \cellcolor{gray!6}{-0.0860} & \cellcolor{gray!6}{0.0004}\\
+\hspace{1em}TE & Kyle Pitts & -0.0618 & 0.0002 & Kyle Fourtenbary & -0.0795 & 0.0002\\
+\hspace{1em}\cellcolor{gray!6}{TE} & \cellcolor{gray!6}{Jake Ferguson} & \cellcolor{gray!6}{-0.0624} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Carter Ware} & \cellcolor{gray!6}{-0.0797} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}TE & Trey Pugh & -0.0629 & 0.0003 & Marcus Williams & -0.0800 & 0.0003\\
+\hspace{1em}\cellcolor{gray!6}{TE} & \cellcolor{gray!6}{Jeremy Ruckert} & \cellcolor{gray!6}{-0.0632} & \cellcolor{gray!6}{0.0002} & \cellcolor{gray!6}{Kyle Horn} & \cellcolor{gray!6}{-0.0801} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}TE & Thaddeus Moss & -0.0632 & 0.0002 & Cameron Butler & -0.0845 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{OT} & \cellcolor{gray!6}{Jedrick Wills Jr.} & \cellcolor{gray!6}{-0.0529} & \cellcolor{gray!6}{0.0006} & \cellcolor{gray!6}{Clyde McCauley III} & \cellcolor{gray!6}{-0.0859} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}OT & Alex Leatherwood & -0.0539 & 0.0004 & Larnel Coleman & -0.0866 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{OT} & \cellcolor{gray!6}{Erik Swenson} & \cellcolor{gray!6}{-0.0547} & \cellcolor{gray!6}{0.0006} & \cellcolor{gray!6}{Mike Lonsdorf} & \cellcolor{gray!6}{-0.0941} & \cellcolor{gray!6}{0.0010}\\
+\hspace{1em}OT & Saahdiq Charles & -0.0556 & 0.0005 & Alec Anderson & -0.0942 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{OT} & \cellcolor{gray!6}{Thayer Munford} & \cellcolor{gray!6}{-0.0568} & \cellcolor{gray!6}{0.0007} & \cellcolor{gray!6}{Brandon Council} & \cellcolor{gray!6}{-0.1030} & \cellcolor{gray!6}{0.0012}\\
+\hspace{1em}OG & Ed Ingram & -0.0134 & 0.0020 & Tony Barnett & -0.1129 & 0.0016\\
+\hspace{1em}\cellcolor{gray!6}{OG} & \cellcolor{gray!6}{Nick Polino} & \cellcolor{gray!6}{-0.0233} & \cellcolor{gray!6}{0.0019} & \cellcolor{gray!6}{Sean Christie} & \cellcolor{gray!6}{-0.1140} & \cellcolor{gray!6}{0.0017}\\
+\hspace{1em}OG & Adrian Magee & -0.0286 & 0.0015 & Hunter Corne & -0.1211 & 0.0024\\
+\hspace{1em}\cellcolor{gray!6}{OG} & \cellcolor{gray!6}{Tyrese Robinson} & \cellcolor{gray!6}{-0.0302} & \cellcolor{gray!6}{0.0016} & \cellcolor{gray!6}{Mike Yerardi} & \cellcolor{gray!6}{-0.1229} & \cellcolor{gray!6}{0.0015}\\
+\hspace{1em}OG & Wyatt Davis & -0.0306 & 0.0018 & Shawn Muldowney II & -0.1598 & 0.0053\\
+\hspace{1em}\cellcolor{gray!6}{C} & \cellcolor{gray!6}{Lloyd Cushenberry III} & \cellcolor{gray!6}{0.0071} & \cellcolor{gray!6}{0.0045} & \cellcolor{gray!6}{Isaac Weaver} & \cellcolor{gray!6}{-0.1105} & \cellcolor{gray!6}{0.0016}\\
+\hspace{1em}C & Sean Pollard & -0.0057 & 0.0025 & Jack Kramer & -0.1145 & 0.0020\\
+\hspace{1em}\cellcolor{gray!6}{C} & \cellcolor{gray!6}{Josh Myers} & \cellcolor{gray!6}{-0.0196} & \cellcolor{gray!6}{0.0026} & \cellcolor{gray!6}{Michael Maietti} & \cellcolor{gray!6}{-0.1212} & \cellcolor{gray!6}{0.0026}\\
+\hspace{1em}C & Landon Dickerson & -0.0210 & 0.0017 & Sean McMoore & -0.1241 & 0.0022\\
+\hspace{1em}\cellcolor{gray!6}{C} & \cellcolor{gray!6}{Creed Humphrey} & \cellcolor{gray!6}{-0.0227} & \cellcolor{gray!6}{0.0020} & \cellcolor{gray!6}{Bryce Petersen} & \cellcolor{gray!6}{-0.1433} & \cellcolor{gray!6}{0.0043}\\
+\hspace{1em}DT & Jermayne Lole & -0.0550 & 0.0005 & Blessman Ta'ala & -0.0814 & 0.0002\\
+\hspace{1em}\cellcolor{gray!6}{DT} & \cellcolor{gray!6}{Travon Walker} & \cellcolor{gray!6}{-0.0556} & \cellcolor{gray!6}{0.0004} & \cellcolor{gray!6}{Caleb Sampson} & \cellcolor{gray!6}{-0.0827} & \cellcolor{gray!6}{0.0003}\\
+\hspace{1em}DT & Derrick Brown & -0.0564 & 0.0002 & Jaquel Pierce & -0.0863 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{DT} & \cellcolor{gray!6}{Rashard Lawrence} & \cellcolor{gray!6}{-0.0576} & \cellcolor{gray!6}{0.0003} & \cellcolor{gray!6}{Jake Byczko} & \cellcolor{gray!6}{-0.0889} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}DT & T.J. Carter & -0.0582 & 0.0004 & Marcus Webb & -0.0973 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{DE} & \cellcolor{gray!6}{Patrick Jones II} & \cellcolor{gray!6}{-0.0239} & \cellcolor{gray!6}{0.0017} & \cellcolor{gray!6}{Desjuan Johnson} & \cellcolor{gray!6}{-0.0925} & \cellcolor{gray!6}{0.0008}\\
+\hspace{1em}DE & Chase Young & -0.0315 & 0.0012 & Christian Rector & -0.0931 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{DE} & \cellcolor{gray!6}{Shaka Toney} & \cellcolor{gray!6}{-0.0379} & \cellcolor{gray!6}{0.0011} & \cellcolor{gray!6}{Ibrahim Kante} & \cellcolor{gray!6}{-0.0932} & \cellcolor{gray!6}{0.0009}\\
+\hspace{1em}DE & Tyreke Smith & -0.0379 & 0.0012 & David Konowalski & -0.0964 & 0.0009\\
+\hspace{1em}\cellcolor{gray!6}{DE} & \cellcolor{gray!6}{Yetur Gross-Matos} & \cellcolor{gray!6}{-0.0380} & \cellcolor{gray!6}{0.0012} & \cellcolor{gray!6}{Eric Watts} & \cellcolor{gray!6}{-0.1211} & \cellcolor{gray!6}{0.0019}\\
+\hspace{1em}ILB & James Skalski & -0.0304 & 0.0021 & Bruce Bivens & -0.0910 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{ILB} & \cellcolor{gray!6}{Chad Smith} & \cellcolor{gray!6}{-0.0450} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Cole McCubrey} & \cellcolor{gray!6}{-0.0929} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}ILB & Eriq Gilyard & -0.0461 & 0.0008 & Shemar Smith & -0.0950 & 0.0011\\
+\hspace{1em}\cellcolor{gray!6}{ILB} & \cellcolor{gray!6}{David Woodward} & \cellcolor{gray!6}{-0.0467} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Mike Ruane} & \cellcolor{gray!6}{-0.0989} & \cellcolor{gray!6}{0.0010}\\
+\hspace{1em}ILB & Zakoby McClain & -0.0482 & 0.0007 & Jarvis Miller & -0.1081 & 0.0015\\
+\hspace{1em}\cellcolor{gray!6}{OLB} & \cellcolor{gray!6}{Zack Baun} & \cellcolor{gray!6}{-0.0475} & \cellcolor{gray!6}{0.0009} & \cellcolor{gray!6}{Azur Kamara} & \cellcolor{gray!6}{-0.0894} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}OLB & Big Kat Bryant & -0.0484 & 0.0006 & Elorm Lumor & -0.0911 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{OLB} & \cellcolor{gray!6}{Marlon Davidson} & \cellcolor{gray!6}{-0.0495} & \cellcolor{gray!6}{0.0006} & \cellcolor{gray!6}{Jayson VanHook} & \cellcolor{gray!6}{-0.0912} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}OLB & Cam Bright & -0.0521 & 0.0007 & Chinedu Ogbonna & -0.0945 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{OLB} & \cellcolor{gray!6}{Brendon White} & \cellcolor{gray!6}{-0.0523} & \cellcolor{gray!6}{0.0007} & \cellcolor{gray!6}{Nick Faulkner} & \cellcolor{gray!6}{-0.0952} & \cellcolor{gray!6}{0.0008}\\
+\hspace{1em}SCB & Javelin Guidry & -0.0287 & 0.0019 & Justin Rogers & -0.0903 & 0.0008\\
+\hspace{1em}\cellcolor{gray!6}{SCB} & \cellcolor{gray!6}{Shaun Crawford} & \cellcolor{gray!6}{-0.0289} & \cellcolor{gray!6}{0.0015} & \cellcolor{gray!6}{Kyle Williams} & \cellcolor{gray!6}{-0.0923} & \cellcolor{gray!6}{0.0013}\\
+\hspace{1em}SCB & Isaiah Simmons & -0.0300 & 0.0018 & Tyreek Maddox-Williams & -0.0923 & 0.0007\\
+\hspace{1em}\cellcolor{gray!6}{SCB} & \cellcolor{gray!6}{Javaris Davis} & \cellcolor{gray!6}{-0.0319} & \cellcolor{gray!6}{0.0013} & \cellcolor{gray!6}{Ian Swenson} & \cellcolor{gray!6}{-0.0941} & \cellcolor{gray!6}{0.0009}\\
+\hspace{1em}SCB & Shyheim Carter & -0.0347 & 0.0012 & Micahh Smith & -0.0986 & 0.0011\\
+\hspace{1em}\cellcolor{gray!6}{CB} & \cellcolor{gray!6}{A.J. Terrell} & \cellcolor{gray!6}{-0.0395} & \cellcolor{gray!6}{0.0012} & \cellcolor{gray!6}{Cam Watkins} & \cellcolor{gray!6}{-0.0872} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}CB & Jeff Okudah & -0.0437 & 0.0007 & Lance Boykin & -0.0879 & 0.0006\\
+\hspace{1em}\cellcolor{gray!6}{CB} & \cellcolor{gray!6}{Josiah Scott} & \cellcolor{gray!6}{-0.0440} & \cellcolor{gray!6}{0.0012} & \cellcolor{gray!6}{Damarcus Fields} & \cellcolor{gray!6}{-0.0884} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}CB & Jaylon Johnson & -0.0501 & 0.0008 & Donte Lindsey & -0.1007 & 0.0011\\
+\hspace{1em}\cellcolor{gray!6}{CB} & \cellcolor{gray!6}{Patrick Surtain II} & \cellcolor{gray!6}{-0.0504} & \cellcolor{gray!6}{0.0005} & \cellcolor{gray!6}{Isaiah Rodgers} & \cellcolor{gray!6}{-0.1051} & \cellcolor{gray!6}{0.0012}\\
+\hspace{1em}S & Eric Burrell & -0.0381 & 0.0015 & Ikem Okeke & -0.0844 & 0.0004\\
+\hspace{1em}\cellcolor{gray!6}{S} & \cellcolor{gray!6}{Brady Breeze} & \cellcolor{gray!6}{-0.0471} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Tycen Anderson} & \cellcolor{gray!6}{-0.0857} & \cellcolor{gray!6}{0.0005}\\
+\hspace{1em}S & Richard LeCounte & -0.0484 & 0.0005 & Joseph Norwood & -0.0880 & 0.0005\\
+\hspace{1em}\cellcolor{gray!6}{S} & \cellcolor{gray!6}{Daniel Thomas} & \cellcolor{gray!6}{-0.0495} & \cellcolor{gray!6}{0.0008} & \cellcolor{gray!6}{Martin Mangram} & \cellcolor{gray!6}{-0.0900} & \cellcolor{gray!6}{0.0006}\\
+\hspace{1em}S & Brad Hawkins & -0.0513 & 0.0005 & Jamari Bozeman & -0.0900 & 0.0006\\*
+\end{longtable}
+\endgroup{}
